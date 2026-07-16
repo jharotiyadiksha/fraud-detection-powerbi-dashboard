@@ -29,7 +29,7 @@ Methods
 
 Accounts
 ![Image not loaded.](pj2.6.png)
-```
+
 
 ## Dataset
 
@@ -62,7 +62,7 @@ Every page carries the same nine slicers (date, account type, branch, payment ty
 
 Instead of default page tabs, navigation uses hidden slide-out menu and filter panels toggled by **24 bookmarks**, wired to on-page action buttons — every page can reach every other page directly.
 
-20260716-1437-18.5608112.mp4
+
 ## Key design decisions
 
 - **Average, not sum, for the "amount at risk" chart** — with fraud at under 1% of volume, a sum-based chart would make fraud invisible; averages keep it visible and comparable.

@@ -30,7 +30,6 @@ Methods
 Accounts
 ![Image not loaded.](screenshots\pj2.6.png)
 
-
 ## Dataset
 
 - **Source**: A PaySim-style synthetic mobile-money transaction dataset (`Fraud Dataset.csv`), 10,127 rows, dated 2–25 Jan 2018.

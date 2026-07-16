@@ -13,22 +13,22 @@ The dashboard is built on a single, cleaned transaction table and uses custom bo
 ## 📸 Screenshots
 
 Dashboard
-![Image not loaded.](pj2.1.png)
+![Image not loaded.](screenshots\pj2.1.png)
 
 Fraud
-![Image not loaded.](2.png)
+![Image not loaded.](screenshots\pj2.2.png)
 
 Customers
-![Image not loaded.](pj2.3.png)
+![Image not loaded.](screenshots\pj2.3.png)
 
 Device
-![Image not loaded.](pj2.4.png)
+![Image not loaded.](screenshots\pj2.4.png)
 
 Methods
-![Image not loaded.](pj2.5.png)
+![Image not loaded.](screenshots\pj2.5.png)
 
 Accounts
-![Image not loaded.](pj2.6.png)
+![Image not loaded.](screenshots\pj2.6.png)
 
 
 ## Dataset

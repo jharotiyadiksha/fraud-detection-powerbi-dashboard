@@ -16,7 +16,7 @@ Dashboard
 ![Image not loaded.](screenshots/pj2.1.png)
 
 Fraud
-![Image not loaded.](screenshots/pj2.2.png)
+![Image not loaded.](screenshots\pj2.2.png)
 
 Customers
 ![Image not loaded.](screenshots/pj2.3.png)
